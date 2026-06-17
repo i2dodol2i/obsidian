@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: 마음의 기술
+  pageTitle: "마음의 기술"
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: ko-KR
-  baseUrl: i2dodol2i.github.io
+  baseUrl: "i2dodol2i.github.io/github-obsidian"
   ignorePatterns:
     - private
     - templates
