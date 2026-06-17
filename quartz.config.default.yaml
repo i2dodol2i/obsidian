@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: ko-KR
-  baseUrl: "i2dodol2i.github.io/github-obsidian"
+  baseUrl: i2dodol2i.github.io/github-obsidian
   ignorePatterns:
     - private
     - templates
